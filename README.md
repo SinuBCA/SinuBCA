@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/mr sinu](https://www.linkedin.com/in/avinash-kumar-39baa9284/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr sinu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/avinash-kumar-39baa9284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr sinu" height="30" width="40" /></a>
 <a href="https://instagram.com/sinu_bca?igshid=OGQ5ZDc2ODk2ZA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avinash__ak47" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@SinuBCA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sinu bca" height="30" width="40" /></a>
 </p>
